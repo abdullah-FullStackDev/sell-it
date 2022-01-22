@@ -47,10 +47,31 @@ header{
 .f-image{
     border: 1px solid #000;
     width: auto;
-    margin: 50px;
+    margin-top: 25px;
+    margin-right: 50px;
+    margin-left: 50px;
 }
 .p-name{
     text-align: center;
     font-size: 32px;
     margin-bottom: 1px;
+    margin-top: 1px;
+}
+.se-image{
+    width: 225px;
+    height: 225px;
+    border: 1px solid #000;
+    margin-top: 25px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.button{
+    margin-left: 103px;
+    width: 225px;
+    margin-bottom: 25px;
+}
+.f-button{
+    margin-left: 50px;
+    width: 225px;
+    margin-bottom: 25px;
 }
