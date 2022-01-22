@@ -26,6 +26,31 @@ header{
     top: 0;
     left: 0;
 }
-body{
-    background-color: rgb(218, 127, 157);
+.s-hr{
+    width: 50%;
+}
+#name{
+    margin-left: 40%;
+}
+.c-t{
+    text-align: center;
+}
+.b-name{
+    font-size: xx-large;
+    font-family: lobster;
+    display: flex;
+ text-transform: capitalize;
+}
+.m-left{
+    margin-left:100px;
+}
+.f-image{
+    border: 1px solid #000;
+    width: auto;
+    margin: 50px;
+}
+.p-name{
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 1px;
 }
