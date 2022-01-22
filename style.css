@@ -1,7 +1,12 @@
 .col-h{
     background-color: rgba(216, 30, 30, 0.952);
-    top: 0;
-    right: 0;
-    left: 0;
-    position: fixed;
+   
+    color: white;
+   height: 75px;
+   top: 0;
+   right: 0;
+   left: 0;
+}
+.size{
+    
 }
