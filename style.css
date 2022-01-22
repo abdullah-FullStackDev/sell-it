@@ -75,3 +75,18 @@ header{
     width: 225px;
     margin-bottom: 25px;
 }
+#s-image{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+  }
+  footer{
+      background-color: rgba(39, 31, 31, 0.342);
+      text-align: center;
+  }
+  .g-p-m{
+      margin-top: 10px;
+  }
+  .c-o-p{
+   color: rgba(39, 31, 31, 0.342);
+  }
