@@ -1,17 +1,31 @@
-.col-h{
-    background-color: rgba(216, 30, 30, 0.952);
-   position: fixed;
+.s-pic{
     color: white;
-   height: 75px;
    top: 0;
    right: 0;
    left: 0;
    width: 100%;
-   text-align: center;
+   height: 500px;
 }
 #name{
     height: 20px;
 }
 .align-items-center{
     align-items: start;
+}
+.p-image{
+    background-size: cover;
+    height: 610px;
+    width: 100%;
+    margin-top: 70px;
+}
+header{
+    text-align: center;
+    position: fixed;
+    background-color: red;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+body{
+    background-color: rgb(218, 127, 157);
 }
