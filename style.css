@@ -7,7 +7,9 @@
    height: 500px;
 }
 #name{
-    height: 20px;
+    height: 30px;
+    width: 200px;
+    margin-left: 40%;
 }
 .align-items-center{
     align-items: start;
@@ -26,14 +28,11 @@ header{
     left: 0;
 }
 #full-background{
-    background: linear-gradient(70deg, red, orange, yellow, orange, red);
+    background-color: #814d2e;
       z-index: 1;
   }
 .s-hr{
     width: 50%;
-}
-#name{
-    margin-left: 40%;
 }
 .c-t{
     text-align: center;
