@@ -20,12 +20,15 @@
 }
 header{
     text-align: center;
-    position: fixed;
-    background-color: red;
     width: 100%;
+    position: fixed;
     top: 0;
     left: 0;
 }
+#full-background{
+    background: linear-gradient(70deg, red, orange, yellow, orange, red);
+      z-index: 1;
+  }
 .s-hr{
     width: 50%;
 }
@@ -89,4 +92,8 @@ header{
   }
   .c-o-p{
    color: rgba(39, 31, 31, 0.342);
+  }
+  #full-background{
+    background: linear-gradient(70deg, brown );
+      z-index: 1;
   }
