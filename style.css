@@ -87,7 +87,7 @@ header{
       text-align: center;
   }
   .g-p-m{
-      margin-top: 10px;
+      margin-top: 1%;
   }
   .c-o-p{
    color: rgba(39, 31, 31, 0.342);
@@ -107,3 +107,23 @@ header{
   .d-flex{
       display: flex;
   }
+  .img-width{
+      width: 100px;
+      height: 100px;
+      margin-top: 10px;
+      margin-left: 10px;
+  }
+  .m-left-c{
+      margin-left: 19%;
+      margin-right: 1%;
+  }
+  .m-right-c{
+      margin-right: 20%;
+  }
+.just-b{
+    margin-bottom: 30px;
+}
+.s-button{
+    width: 100px;
+    margin-left: 10px;
+}
