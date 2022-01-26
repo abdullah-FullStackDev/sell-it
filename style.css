@@ -15,10 +15,11 @@
     align-items: start;
 }
 .p-image{
-    background-size: cover;
     height: 610px;
     width: 100%;
     margin-top: 70px;
+    right: 0;
+    left: 0;
 }
 header{
     text-align: center;
@@ -97,7 +98,7 @@ header{
       z-index: 1;
   }
   .container{
-      background-color: rgb(243, 235, 235);
+      background-color: beige;
       width: 400px;
       height: 200px;
   }
