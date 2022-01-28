@@ -143,7 +143,7 @@ header{
     margin-left: 10px;
 }
 .info{
-    background-color: rgb(200, 200, 182);
+    background-color: #aaa;
     width: 225px;
     margin-left: 50px;
     margin-right: 53px;
@@ -151,21 +151,21 @@ header{
 .m-pd{
     margin-left: 53px;
     margin-right: 51px;
-    background-color: rgb(200, 200, 182);
+    background-color: #aaa;
     width: 225px;
 
 }
 .m-md{
     margin-left: 50px;
     margin-right: 50px;
-    background-color: rgb(200, 200, 182);
+    background-color: #aaa;
     width: 225px;
 
 }
 .m-ad{
     margin-left: 50px;
     margin-right: 51px;
-    background-color: rgb(200, 200, 182);
+    background-color: #aaa;
     width: 225px;
 }
 .f-color{
@@ -176,5 +176,5 @@ header{
     margin-left: 15%;
 }
 body{
-    background-color: #aaa9ad;
+    background-color: grey;
 }
