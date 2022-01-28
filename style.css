@@ -69,11 +69,25 @@ header{
     margin-left: 50px;
 }
 .button{
-    margin-left: 103px;
+    width: 225px;
+    margin-bottom: 25px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.t-button{
+    margin-right: 50px;
+    margin-left: 50px;
+    width: 225px;
+    margin-bottom: 25px;
+}
+.s-button{
+    margin-right: 50px;
+    margin-left: 50px;
     width: 225px;
     margin-bottom: 25px;
 }
 .f-button{
+    margin-right: 50px;
     margin-left: 50px;
     width: 225px;
     margin-bottom: 25px;
@@ -98,7 +112,7 @@ header{
       z-index: 1;
   }
   .container{
-      background-color: beige;
+      background-color: rgb(200, 200, 182);
       width: 400px;
       height: 200px;
   }
@@ -127,4 +141,10 @@ header{
 .s-button{
     width: 100px;
     margin-left: 10px;
+}
+.info{
+    background-color: rgb(200, 200, 182);
+    width: 225px;
+    margin-right: 50px;
+    margin-left: 50px;
 }
