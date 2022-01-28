@@ -168,3 +168,10 @@ header{
     background-color: rgb(200, 200, 182);
     width: 225px;
 }
+.f-color{
+    color: rgb(187, 13, 13);
+}
+.s-color{
+    color: rgb(199, 100, 133);
+    margin-left: 15%;
+}
