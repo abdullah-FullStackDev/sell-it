@@ -49,7 +49,7 @@ header{
 }
 .f-image{
     border: 1px solid #000;
-    width: auto;
+    width: 225px;
     margin-top: 25px;
     margin-right: 50px;
     margin-left: 50px;
@@ -109,7 +109,7 @@ header{
   }
   #full-background{
     background: linear-gradient(70deg, brown );
-      z-index: 1;
+
   }
   .container{
       background-color: rgb(200, 200, 182);
@@ -150,7 +150,7 @@ header{
 }
 .m-pd{
     margin-left: 53px;
-    margin-right: 50px;
+    margin-right: 51px;
     background-color: rgb(200, 200, 182);
     width: 225px;
 
@@ -164,7 +164,7 @@ header{
 }
 .m-ad{
     margin-left: 50px;
-    margin-right: 50px;
+    margin-right: 51px;
     background-color: rgb(200, 200, 182);
     width: 225px;
 }
@@ -174,4 +174,7 @@ header{
 .s-color{
     color: rgb(199, 100, 133);
     margin-left: 15%;
+}
+body{
+    background-color: #aaa9ad;
 }
