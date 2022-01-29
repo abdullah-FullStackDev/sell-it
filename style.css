@@ -50,9 +50,6 @@ header{
 .f-image{
     border: 1px solid #000;
     width: 225px;
-    margin-top: 25px;
-    margin-right: 50px;
-    margin-left: 50px;
 }
 .p-name{
     text-align: center;
@@ -67,26 +64,19 @@ header{
 }
 .button{
     width: 225px; 
-    margin-left: 50px;
-    margin-right: 50px;
 }
 .t-button{
     width: 225px;
-    margin-left: 50px;
-    margin-right: 50px;
 }
 .s-button{
     width: 225px;
 }
 .f-button{
     width: 225px;
-    margin-left: 50px;
-    margin-right: 50px;
 }
 #s-image{
     border-radius: 50%;
-    width: 50px;
-    height: 50px;
+   height: 40px;
   }
   footer{
       background-color: rgba(39, 31, 31, 0.342);
@@ -139,26 +129,18 @@ header{
 .info{
     background-color: #aaa;
     width: 225px;
-    margin-left: 50px;
-    margin-right: 53px;
 }
 .m-pd{
-    margin-left: 53px;
-    margin-right: 51px;
     background-color: #aaa;
     width: 225px;
 
 }
 .m-md{
-    margin-left: 50px;
-    margin-right: 50px;
     background-color: #aaa;
     width: 225px;
 
 }
 .m-ad{
-    margin-left: 50px;
-    margin-right: 51px;
     background-color: #aaa;
     width: 225px;
 }
