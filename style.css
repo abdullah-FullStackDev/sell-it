@@ -54,8 +54,8 @@ header{
 .p-name{
     text-align: center;
     font-size: 32px;
-    margin-bottom: 1px;
-    margin-top: 1px;
+    margin-bottom: 25px;
+    margin-top: 25px;
 }
 .se-image{
     width: 225px;
@@ -93,7 +93,7 @@ header{
 
   }
   .container{
-      background-color: rgb(200, 200, 182);
+      background-color: rgba(39, 31, 31, 0.342);
       width: 400px;
       height: 200px;
       display: flex;
@@ -124,7 +124,6 @@ header{
 }
 .s-button{
     width: 100px;
-    margin-left: 10px;
 }
 .info{
     background-color: #aaa;
@@ -133,12 +132,10 @@ header{
 .m-pd{
     background-color: #aaa;
     width: 225px;
-
 }
 .m-md{
     background-color: #aaa;
     width: 225px;
-
 }
 .m-ad{
     background-color: #aaa;
