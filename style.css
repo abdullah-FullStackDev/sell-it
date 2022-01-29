@@ -64,9 +64,6 @@ header{
     width: 225px;
     height: 225px;
     border: 1px solid #000;
-    margin-top: 25px;
-    margin-right: 50px;
-    margin-left: 50px;
 }
 .button{
     width: 225px; 
@@ -175,4 +172,8 @@ header{
 body{
     margin-right: 0;
     margin-left: 0;
+}
+.s-evenly{
+    display: flex;
+    justify-content:space-evenly;
 }
