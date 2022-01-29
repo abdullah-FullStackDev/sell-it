@@ -69,28 +69,22 @@ header{
     margin-left: 50px;
 }
 .button{
-    width: 225px;
-    margin-bottom: 25px;
-    margin-right: 50px;
+    width: 225px; 
     margin-left: 50px;
+    margin-right: 50px;
 }
 .t-button{
-    margin-right: 50px;
-    margin-left: 50px;
     width: 225px;
-    margin-bottom: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 .s-button{
-    margin-right: 50px;
-    margin-left: 50px;
     width: 225px;
-    margin-bottom: 25px;
 }
 .f-button{
-    margin-right: 50px;
-    margin-left: 50px;
     width: 225px;
-    margin-bottom: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 #s-image{
     border-radius: 50%;
@@ -115,6 +109,11 @@ header{
       background-color: rgb(200, 200, 182);
       width: 400px;
       height: 200px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding-top: 5px;
+      border-radius: 5%;
   }
   .c-text{
       text-align: center;
@@ -125,8 +124,6 @@ header{
   .img-width{
       width: 100px;
       height: 100px;
-      margin-top: 10px;
-      margin-left: 10px;
   }
   .m-left-c{
       margin-left: 19%;
@@ -176,5 +173,6 @@ header{
     margin-left: 15%;
 }
 body{
-    background-color: grey;
+    margin-right: 0;
+    margin-left: 0;
 }
